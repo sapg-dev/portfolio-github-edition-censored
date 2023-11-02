@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "IT Lab Assistant Webster",
+            "subtitle": "Wesbter University",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+            ],
+            "dateText": "06/20XX – Present"
+        },
+        {
+            "title": "Intern in Private Banking and IT",
+            "subtitle": "Bank One Ltd, Mauritius",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on abc."
+            ],
+            "dateText": "01/20XX – 05/20XX"
+        },
+        {
+            "title": "Cashier",
+            "subtitle": "NG Next Ltd, Mauritius",
+            "workType": "Part-Time",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
+                "Done bcd work."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        }
+    ]
+}

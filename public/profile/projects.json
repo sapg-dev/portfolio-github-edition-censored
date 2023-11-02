@@ -1,0 +1,187 @@
+{
+    "projects" : [
+        {
+            "image" : "./images/projects/DALL·E 2023-10-16 11.45.04 - Illustration of a modern employee management system software's main dashboard. It has a clean and user-friendly design with tabs labeled 'Employee Dir.png",
+            "title": "Employee Management System ",
+            "bodyText": "This program encompasses a range of functionalities, each designed to enhance user management and payroll processing. Notable features include:\n\n- **_User Authentication_**:\n   - Log in using a **_username_** and **_password_**\n   - Securely store passwords with **_SHA-256 encryption_**\n\n- **_Employee Management_**:\n   - Perform actions such as **_addition_**, **_deletion_**, and **_modification_** of employee records\n\n- **_Shift Scheduling_**:\n   - Generate shift schedules based on user-defined parameters\n\n- **_Payroll Processing_**:\n   - Generate **_PDF pay slips_** for selected employees, streamlining payroll management\n\n- **_Tax Deduction_**:\n   - Calculate and deduct taxes according to user-configured **_tax rates_**",
+            "links": [
+                {
+                    "text": "Documentation",
+                    "href": "https://employee-management.pacifictrout.com"
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags": ["Java", "Serialization", "Databases", "Local File Storage", "User Authentication", "Employee Management", "Shift Scheduling", "Payroll Processing", "Tax Deduction", "Security", "SHA-256 Encryption"]
+        },
+
+        {   "image" :"./images/projects/DALL·E 2023-10-16 14.16.43 - Illustration of a chat app interface made with Python and Flask. The design showcases a modern messaging layout with chat bubbles, user avatars, and a.png",
+        "title": "Pacific Chat",
+        "bodyText":  "- **Real-Time Messaging:** Communicate instantly with friends, family, or teammates.\n- *User Authentication:* Securely join chat rooms with a unique username.\n- **Create & Join Rooms:** Easily create rooms and invite others, or join existing ones using room IDs.\n- *Customizable UI:* Enjoy a user-friendly interface with a dark theme for easy readability.\n- **Privacy-Focused:** Your messages are not stored, ensuring privacy and confidentiality.\n- *Fast & Efficient:* Built with performance and speed in mind for a seamless experience.\n- **Create a Room:** Click on 'Create a Room' and enter your username to start chatting.\n- *Join a Room:* Enter a room ID and your username to join existing chat rooms.\n- **Send Messages:** Type your messages and press enter to send them in real-time.\n- *Leave Room:* Click on 'Leave Room' whenever you want to exit the chat.",
+    
+
+
+        "links": [
+            {
+                "text": "GitHub",
+                "href": "https://github.com/sapg-dev/pacific-chat.git"
+            },
+            {
+                "text": "Live",
+                "href": "https://chat.pacifictrout.com"
+            }
+            
+        ],
+        "tags": [
+            "Python",
+            "Flask",
+            "Real-Time Messaging",
+            "Chat Application",
+            "WebSockets",
+            "User Authentication",
+            "Dark Theme UI"
+        ]
+    
+    },
+        
+
+        
+           
+                {
+                    "image": "./images/projects/DALL·E 2023-10-28 08.52.32 - Photo of a modern waste sorting facility with advanced robots using AI to sort waste. Robots' arms are picking up items from a conveyor belt and placi.png",
+                    "title": "Waste Classification Machine Learning Model",
+                    "bodyText": "- **Frameworks:** Utilized **_TensorFlow_** and **_Keras_** for constructing and training the deep learning model.\n\n- **Algorithm:** Employed a **_Convolutional Neural Network (CNN)_** for extracting and learning features from waste images.\n\n- **Optimizations:**\n  - Incorporated **_Batch Normalization_** to stabilize activations.\n  - Used **_Dropout_** layers to prevent overfitting.\n  - Selected **_Adam_** as the optimizer for efficient weight updates during training.\n\n \n - **Web Interface:** Developed a user-friendly web interface powered by **_Flask_**.\n\n- **Feedback Mechanism:** Integrated a dynamic pseudo-console for real-time feedback during image classification.\n\n- **Model Performance:** Achieved a training accuracy of **_92.23%_** and a test accuracy peak of **_93.27%_**.\n\n- **Data Handling:** Leveraged **_Data Augmentation_** techniques such as rotations, zooming, and horizontal flipping to enhance model generalization.",
+                    "links": [
+                        {
+                            "text": "GitHub",
+                            "href": "https://github.com/sapg-dev/waste-classifier"
+                        },
+                        {
+                            "text": "Live Demo",
+                            "href": "https://waste-management-model.pacifictrout.com"
+                        }
+                    ],
+                    "tags": [
+                        "Flask",
+                        "TensorFlow",
+                        "Deep Learning",
+                        "Image Classification",
+                        "Web Development",
+                        "Python",
+                        "Real-time Console",
+                        "UI/UX",
+                        "Data Privacy"
+                    ]
+                }
+            
+        ,
+
+        {
+            "image" : "./images/projects/DALL·E 2023-10-16 11.40.08 - Illustration of a split screen. On the left side, there's a detailed depiction of charged particles interacting with a semiconductor, with arrows indi.png",
+            "title": "Research Paper : Causation of Bit Flips",
+            "bodyText": "This research on **_Single Event Upsets (SEUs)_** includes:\n\n- **Introduction**\n- **Interdisciplinary Approach**\n  - **Physics Factors**\n  - **Computer Science Factors**\n- **Historical Background**\n- Real-world **SEU Incidents**\n- **Moore’s Law**\n- Understanding **Single Event Effects** and **Soft Errors**\n- Role of **Physics**\n  - Sources of Radiation\n  - **Coulomb’s Law**\n- **Prevention Methods**\n  - **Shielding**\n  - **Modular Redundancy**\n  - **Error Correction Codes (ECCs)**\n- **Evaluation of Methods**\n- **Conclusion**\n- **Bibliography**",
+            "links": [
+                {
+                    "text": "Abstract",
+                    "href": "./images/projects/document copy.pdf"
+                },
+                {
+                    "text": "PDF",
+                    "href": "./images/projects/document.pdf"
+                }
+            ],
+            "tags": ["Physics", "Electromagnetic Induction", "Faraday's Law", "Magnetic Flux Linkage", "Copper Coil", "Neodymium Magnet", "Real-world Applications", "Particle Accelerators", "Electromotive Force", "Scientific Research"]
+        },
+
+        
+        {
+            "image" : "images/projects/DALL·E 2023-10-16 11.37.08 - Photo of an old mathematician's desk. Papers are spread out, one of which shows a graph of Benford’s Law distribution with the first digit '1' being d.png",
+            "title": "Research : Benford's Law - Statistical Analysis",
+           "bodyText": "This research covers the following key aspects:\n\n- Exploration of ***Benford's Law***\n- *Historical background*\n- Objectives and variables\n- **_Pearson's χ² test_** and *critical values*\n- Analysis of **_COVID-19 data**\n- Examination of randomly generated data in _Java_\n- Evaluation of the *Kolmogorov-Smirnov test*\n- Application of ***Benford's Law*** in fraud detection\n- Limitations and misinterpretations\n- Conclusion and validity assessment",
+        
+
+
+            "links": [
+                {
+                    "text": "PDF",
+                    "href": "images/projects/Benford's Law Mathematics SL AA IA (2).pdf"
+                }
+            ],
+            "tags" : [
+                "Chi Square Test-of-fit",
+                
+                "Statistics", "Data Analysis", "Benford's Law", "Statistical Tests", "Data Collection", "Hypothesis Testing", "Kolmogorov-Smirnov Test", "Fraud Detection", "Electoral Analysis", "Financial Fraud", "Data Integrity", "Mathematical Analysis"
+            ]
+        },
+        {
+            "image" : "./images/projects/DALL·E 2023-10-16 11.29.32 - Photo taken in a physics lab showing the detailed setup of the experiment. A plastic cylinder wrapped with copper wire is connected to a multimeter. A.png",
+            "title": "Laboratory report : Physics - Induced current based on the number of turns of copper",
+            "bodyText": "In this study, we explore the following scientific aspects:\n\n- Investigation of **_Electromagnetic Induction_** and its foundational principles based on Michael Faraday's work in the 1830s.\n\n- Exploration of the intricate relationship between the number of turns in a copper coil and the resulting **induced current**.\n\n- Examination of the phenomenon through the lens of **Faraday's Law**, which governs electromagnetic induction.\n\n- Observing how changes in the coil's configuration affect the **Faraday's Law**-guided process as a neodymium magnet moves through the coil at a consistent velocity.\n\n- Inspiration drawn from real-world applications, including generators and particle accelerators like CERN, which rely heavily on the principles of electromagnetic induction.",
+        
+            "links": [
+                {
+                    "text": "Pdf",
+                    "href": ""
+                }
+            ],
+            "tags": ["Physics", "Electromagnetic Induction", "Faraday's Law", "Magnetic Flux", "Copper Coil", "Neodymium Magnet", "Real-world Applications", "Particle Accelerators", "Electromotive Force", "Magnetic Field", "Scientific Research"]
+        },
+      
+        {
+            "image": "./images/projects/DALL·E 2023-10-17 15.45.09 - Photo of a large interactive touchscreen displaying a vibrant world map. Icons of landmarks like the Eiffel Tower, Great Wall of China, and Pyramids o.png",
+            "title": "Interactive World Map",
+            "bodyText": " **Interactive Visualization:** Display an interactive world map with data visualization using the **svgMap** JavaScript library.\n- *Custom Data:* Users can hover over countries to view customized data such as GDP per capita and its change from the previous year.\n- **Easy Integration:** The map is easily integrated into web pages, offering a seamless user experience.\n- *Scalability:* Though only data for a few countries is showcased to keep the example concise, the implementation is scalable to include data for all countries.\n- **Customization Options:** Adjust colors, tooltips, and other elements to fit various use cases and aesthetics.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sapg-dev/interactive-map"
+                }
+            ],
+            "tags": [
+                "Data Visualization",
+                "Interactive Map",
+                "svgMap",
+                "JavaScript",
+                "Web Development",
+                "GIS",
+                "Geospatial Data",
+                "World Map",
+                "Data Representation",
+                "User Interaction"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sapg-dev/interactive-map"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        }
+    ]
+}

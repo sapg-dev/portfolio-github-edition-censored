@@ -1,0 +1,40 @@
+{
+    "education":[
+
+
+
+        {
+            "title": "Aug 2023 - Now",
+            "cardTitle": "University",
+            "cardSubtitle":"Webster University, Geneva",
+            "cardDetailedText": "Bachelor of Computer Science",
+
+            "icon" : {
+                "src": "images/education/webster-university.jpg"
+            }
+        },
+        {
+            "title": "Sep 2021 - Jun 2023",
+            "cardTitle": "International Baccalaureate",
+            "cardSubtitle":"Institut Le Rosey, Switzerland",
+           
+            "icon" : {
+                "src": "images/education/Institut_Le_Rosey_logo.png"
+            }
+        },
+
+        {
+            "title": "Aug 2023 - Now",
+            "cardTitle": "Middle School",
+            "cardSubtitle":"Northfields International School, Mauritius",
+            "cardDetailedText": "IGCSE(International General Certificate of Secondary Education)",
+
+            "icon" : {
+                "src": "./images/projects/Unknown.png"
+            }
+        }
+      
+
+        
+    ]
+}
