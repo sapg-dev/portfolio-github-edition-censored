@@ -2,7 +2,7 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BfoMgwILvSm%2BCgZ1P%2F7pkhA%3D%3D"
+            "href": "https://www.linkedin.com/company/spacex"
         },
         {
             "network" : "github",
@@ -10,7 +10,7 @@
         },
         {
             "network" : "email",
-            "href": "mailto:sacha@passebecq.ch"
+            "href": ""
         }
     ]
 }
