@@ -8,8 +8,8 @@ import ThemeToggler from './ThemeToggler';
 
 const styles = {
   logoStyle: {
-    width: 50,
-    height: 25,
+    width: 20,
+    height: 15,
   },
 };
 
