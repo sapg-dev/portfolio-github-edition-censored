@@ -88,8 +88,8 @@
                     "href": "./images/projects/document copy.pdf"
                 },
                 {
-                    "text": "PDF",
-                    "href": "./images/projects/document.pdf"
+                    "text": "{censored Github edition}",
+                    "href": ""
                 }
             ],
             "tags": ["Physics", "Electromagnetic Induction", "Faraday's Law", "Magnetic Flux Linkage", "Copper Coil", "Neodymium Magnet", "Real-world Applications", "Particle Accelerators", "Electromotive Force", "Scientific Research"]
@@ -105,8 +105,8 @@
 
             "links": [
                 {
-                    "text": "PDF",
-                    "href": "images/projects/Benford's Law Mathematics SL AA IA (2).pdf"
+                    "text": "{censored Github edition}",
+                    "href": ""
                 }
             ],
             "tags" : [
@@ -122,7 +122,7 @@
         
             "links": [
                 {
-                    "text": "Pdf",
+                    "text": "{censored Github edition}",
                     "href": ""
                 }
             ],
@@ -151,37 +151,8 @@
                 "Data Representation",
                 "User Interaction"
             ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/sapg-dev/interactive-map"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
-            ]
         }
+   
+       
     ]
 }
