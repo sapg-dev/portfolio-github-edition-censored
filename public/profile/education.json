@@ -6,20 +6,20 @@
         {
             "title": "Aug 2023 - Now",
             "cardTitle": "University",
-            "cardSubtitle":"Webster University, Geneva",
+            "cardSubtitle":"{censored Github edition}",
             "cardDetailedText": "Bachelor of Computer Science",
 
             "icon" : {
-                "src": "images/education/webster-university.jpg"
+                "src": ""
             }
         },
         {
             "title": "Sep 2021 - Jun 2023",
-            "cardTitle": "International Baccalaureate",
-            "cardSubtitle":"Institut Le Rosey, Switzerland",
+            "cardTitle": "{censored Github edition}",
+            "cardSubtitle":"",
            
             "icon" : {
-                "src": "images/education/Institut_Le_Rosey_logo.png"
+                "src": ""
             }
         },
 
