@@ -26,11 +26,11 @@
         {
             "title": "Aug 2023 - Now",
             "cardTitle": "Middle School",
-            "cardSubtitle":"Northfields International School, Mauritius",
-            "cardDetailedText": "IGCSE(International General Certificate of Secondary Education)",
+            "cardSubtitle":"{censored Github edition}",
+            "cardDetailedText": ")",
 
             "icon" : {
-                "src": "./images/projects/Unknown.png"
+                "src": ""
             }
         }
       
